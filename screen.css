@@ -10,7 +10,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 html{
   font-family: "Spartan", Helvetica, Arial, sans-serif;
   max-width: 100%;
-  padding: 1em;
+  padding: 2em;
 }
 body{
   background-color: rgba(35,30,75);
@@ -86,7 +86,7 @@ figcaption{
   grid-row-gap: 1.5em;
 }
 html{
-  padding: 2em;
+  padding: 2em 6em;
 }
 h1{
   font-size: 2em; /* 32px / 16px = 2em */
@@ -101,7 +101,7 @@ p{
   grid-template-columns: 1fr 1fr 1fr;
 }
 html{
-  padding: 1em 6em;
+  padding: 2em 8em;
 }
 h1{
   font-size: 2.5em; /* 24px / 16px = 1.5em */
