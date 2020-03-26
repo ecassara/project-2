@@ -96,6 +96,7 @@ p{
   line-height: 1.4em; /*24px /18px = 1.3333*/
 }
 }
+
 @media screen and (min-width:88em){
 .gridarea{
   grid-template-columns: 1fr 1fr 1fr;
